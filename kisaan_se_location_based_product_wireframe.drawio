@@ -1,4 +1,4 @@
-<mxfile modified="2019-11-12T08:35:58.872Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="TRH3ey9zaUnGM0JF1t8b" version="12.2.3" type="github" pages="1">
+<mxfile modified="2019-11-12T08:36:21.046Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="dytIHtA6X0ayX3xmB-OE" version="12.2.3" type="github" pages="1">
   <diagram id="x5mX-uSoQaUf-pWEdMTA" name="Page-1">
     <mxGraphModel dx="6413" dy="3560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -26,7 +26,7 @@
           <mxGeometry x="-2840" y="-1645" width="280" height="600" as="geometry"/>
         </mxCell>
         <mxCell id="mqWR7nXLJC8DmSupHZVO-2" value="&lt;b&gt;New Install/Update&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-2770" y="-1725" width="310" height="20" as="geometry"/>
+          <mxGeometry x="-2770" y="-1725" width="140" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="mqWR7nXLJC8DmSupHZVO-4" value="Desc: &lt;br&gt;1.Show &amp;nbsp;Carousel that user can get products based locations now&lt;br&gt;2. Set Delivery Location Button&lt;br&gt;3. SKIP button to see all products" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-2810" y="-1505" width="220" height="60" as="geometry"/>
