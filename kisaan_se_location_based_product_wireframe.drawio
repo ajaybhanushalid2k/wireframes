@@ -1,4 +1,4 @@
-<mxfile modified="2020-01-28T12:41:48.468Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="DiyBkAzYrRg-Ro1NHIvf" version="12.6.1" type="github">
+<mxfile modified="2020-01-28T12:42:21.213Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="zDgVH3tmjqW12CuHq4Ox" version="12.6.1" type="github">
   <diagram id="x5mX-uSoQaUf-pWEdMTA" name="Page-1">
     <mxGraphModel dx="4150" dy="2435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
         <mxCell id="mqWR7nXLJC8DmSupHZVO-1" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios7.misc.iphone;fillColor=#ffffff;strokeColor=#c0c0c0;" parent="1" vertex="1">
           <mxGeometry x="-2840" y="-1645" width="280" height="600" as="geometry"/>
         </mxCell>
-        <mxCell id="mqWR7nXLJC8DmSupHZVO-2" value="&lt;b&gt;Test&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="mqWR7nXLJC8DmSupHZVO-2" value="&lt;b&gt;New Install/ Update&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-2770" y="-1725" width="140" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="mqWR7nXLJC8DmSupHZVO-4" value="Desc: &lt;br&gt;1.Show &amp;nbsp;Carousel that user can get products based locations now&lt;br&gt;2. Set Delivery Location Button&lt;br&gt;3. SKIP button to see all products" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
