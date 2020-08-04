@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2020-08-04T09:14:45.320Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.5 Safari/605.1.15" version="13.5.9" etag="O5jU8bgqUjR_j-pRfav3" type="github"><diagram id="W24RY36QLkVnYCx4gYAS">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-04T10:30:14.437Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.5 Safari/605.1.15" etag="yba8aJlV-OLnbYVTxha6" version="13.5.9" type="github">
+  <diagram id="W24RY36QLkVnYCx4gYAS" name="Page-1">
+    <mxGraphModel dx="1426" dy="1219" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PFgM8_bVtZAroQwfZKxI-16" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="355" y="-120" width="250" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="PFgM8_bVtZAroQwfZKxI-15" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios7.misc.iphone;strokeColor=#c0c0c0;" vertex="1" parent="PFgM8_bVtZAroQwfZKxI-16">
+          <mxGeometry width="250" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="PFgM8_bVtZAroQwfZKxI-17" value="Generic Login Page" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PFgM8_bVtZAroQwfZKxI-16">
+          <mxGeometry x="65" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PFgM8_bVtZAroQwfZKxI-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PFgM8_bVtZAroQwfZKxI-18" target="PFgM8_bVtZAroQwfZKxI-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PFgM8_bVtZAroQwfZKxI-18" value="Install" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="-280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PFgM8_bVtZAroQwfZKxI-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PFgM8_bVtZAroQwfZKxI-20" target="PFgM8_bVtZAroQwfZKxI-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PFgM8_bVtZAroQwfZKxI-20" value="Take user ID, Check Users Bank and return it to the device by an API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PFgM8_bVtZAroQwfZKxI-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PFgM8_bVtZAroQwfZKxI-15" target="PFgM8_bVtZAroQwfZKxI-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PFgM8_bVtZAroQwfZKxI-23" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="760" y="-120" width="250" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="PFgM8_bVtZAroQwfZKxI-24" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios7.misc.iphone;strokeColor=#c0c0c0;" vertex="1" parent="PFgM8_bVtZAroQwfZKxI-23">
+          <mxGeometry width="250" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="PFgM8_bVtZAroQwfZKxI-25" value="Bank Specific Login Page/Theme/Features" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PFgM8_bVtZAroQwfZKxI-23">
+          <mxGeometry x="65" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PFgM8_bVtZAroQwfZKxI-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=-0.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PFgM8_bVtZAroQwfZKxI-26" target="PFgM8_bVtZAroQwfZKxI-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PFgM8_bVtZAroQwfZKxI-26" value="Next Launch" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="825" y="-280" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
