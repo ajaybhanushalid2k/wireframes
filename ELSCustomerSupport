@@ -1,1 +1,121 @@
-<mxfile host="app.diagrams.net" modified="2020-10-17T05:43:06.444Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.3 Safari/605.1.15" version="13.8.0" etag="9Zd06QMFxzAxOkTxrIXc" type="github"><diagram id="iiCWzVFu_L3pE2Md4-OL">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-17T06:58:38.697Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.3 Safari/605.1.15" etag="u2cDO-5-FuqUY1yUpAG_" version="13.8.0" type="github">
+  <diagram id="iiCWzVFu_L3pE2Md4-OL" name="Page-1">
+    <mxGraphModel dx="1426" dy="1988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bc_NFXUc2R_Vx_7Tmhzq-1" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios7.misc.iphone;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="-1080" width="200" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="bc_NFXUc2R_Vx_7Tmhzq-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bc_NFXUc2R_Vx_7Tmhzq-22" target="bc_NFXUc2R_Vx_7Tmhzq-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bc_NFXUc2R_Vx_7Tmhzq-22" value="Help" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="-788" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bc_NFXUc2R_Vx_7Tmhzq-49" value="Support" style="shape=rect;strokeColor=none;fontSize=10;fontColor=#000000;resizeWidth=1;align=left;spacingLeft=25;spacingTop=2;" vertex="1" parent="1">
+          <mxGeometry x="318" y="-1010" width="164" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bc_NFXUc2R_Vx_7Tmhzq-50" value="" style="shape=rect;rounded=1;rSize=3;strokeColor=none;fillColor=#4CDA64;" vertex="1" parent="bc_NFXUc2R_Vx_7Tmhzq-49">
+          <mxGeometry y="0.5" width="15" height="15" relative="1" as="geometry">
+            <mxPoint x="5" y="-7.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bc_NFXUc2R_Vx_7Tmhzq-51" value="" style="shape=mxgraph.ios7.misc.right;strokeColor=#666666;" vertex="1" parent="bc_NFXUc2R_Vx_7Tmhzq-49">
+          <mxGeometry x="1" y="0.5" width="5" height="10" relative="1" as="geometry">
+            <mxPoint x="-15" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bc_NFXUc2R_Vx_7Tmhzq-52" value="1. Side Menu&lt;br&gt;&lt;div&gt;&lt;div&gt;2. Floating button on several screens&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="325" y="-980" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bc_NFXUc2R_Vx_7Tmhzq-53" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios7.misc.iphone;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="-480" width="200" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="bc_NFXUc2R_Vx_7Tmhzq-77" value="" style="shape=rect;strokeColor=none;fillColor=#ffffff;gradientColor=none;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="-410" width="164" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bc_NFXUc2R_Vx_7Tmhzq-78" value="QEC 1" style="shape=rect;strokeColor=none;fontSize=10;fontColor=#000000;resizeWidth=1;align=left;spacingTop=2;spacingLeft=5;" vertex="1" parent="bc_NFXUc2R_Vx_7Tmhzq-77">
+          <mxGeometry width="164" height="20" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bc_NFXUc2R_Vx_7Tmhzq-79" value="Label" style="shape=mxgraph.ios7.misc.right;strokeColor=#666666;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fontSize=10;spacingRight=4;fontColor=#999999;" vertex="1" parent="bc_NFXUc2R_Vx_7Tmhzq-78">
+          <mxGeometry x="1" y="0.5" width="5" height="10" relative="1" as="geometry">
+            <mxPoint x="-15" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bc_NFXUc2R_Vx_7Tmhzq-80" value="QEC 2" style="shape=rect;strokeColor=none;fontSize=10;fontColor=#000000;resizeWidth=1;align=left;spacingTop=2;spacingLeft=5;" vertex="1" parent="bc_NFXUc2R_Vx_7Tmhzq-77">
+          <mxGeometry width="164" height="20" relative="1" as="geometry">
+            <mxPoint y="20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bc_NFXUc2R_Vx_7Tmhzq-81" value="Label" style="shape=mxgraph.ios7.misc.right;strokeColor=#666666;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fontSize=10;spacingRight=4;fontColor=#999999;" vertex="1" parent="bc_NFXUc2R_Vx_7Tmhzq-80">
+          <mxGeometry x="1" y="0.5" width="5" height="10" relative="1" as="geometry">
+            <mxPoint x="-15" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bc_NFXUc2R_Vx_7Tmhzq-82" value="QEC 3" style="shape=rect;strokeColor=none;fontSize=10;fontColor=#000000;resizeWidth=1;align=left;spacingTop=2;spacingLeft=5;" vertex="1" parent="bc_NFXUc2R_Vx_7Tmhzq-77">
+          <mxGeometry width="164" height="20" relative="1" as="geometry">
+            <mxPoint y="40" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bc_NFXUc2R_Vx_7Tmhzq-83" value="Label" style="shape=mxgraph.ios7.misc.right;strokeColor=#666666;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fontSize=10;spacingRight=4;fontColor=#999999;" vertex="1" parent="bc_NFXUc2R_Vx_7Tmhzq-82">
+          <mxGeometry x="1" y="0.5" width="5" height="10" relative="1" as="geometry">
+            <mxPoint x="-15" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bc_NFXUc2R_Vx_7Tmhzq-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="bc_NFXUc2R_Vx_7Tmhzq-77" source="bc_NFXUc2R_Vx_7Tmhzq-78" target="bc_NFXUc2R_Vx_7Tmhzq-87">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="70" y="180" />
+              <mxPoint x="70" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bc_NFXUc2R_Vx_7Tmhzq-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.005;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bc_NFXUc2R_Vx_7Tmhzq-87" target="bc_NFXUc2R_Vx_7Tmhzq-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bc_NFXUc2R_Vx_7Tmhzq-87" value="SE" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios7.misc.iphone;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="-40" width="200" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="bc_NFXUc2R_Vx_7Tmhzq-89" value="Here user will select the query from predefined list with an option to add any other query" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="30" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bc_NFXUc2R_Vx_7Tmhzq-90" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios7.misc.iphone;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-480" width="200" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="bc_NFXUc2R_Vx_7Tmhzq-92" value="This will be the final page where user will be able to send and recieve messages" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="-400" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bc_NFXUc2R_Vx_7Tmhzq-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.525;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bc_NFXUc2R_Vx_7Tmhzq-103" target="bc_NFXUc2R_Vx_7Tmhzq-90">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="-50" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="270" y="-585" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bc_NFXUc2R_Vx_7Tmhzq-107" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bc_NFXUc2R_Vx_7Tmhzq-105">
+          <mxGeometry x="-0.2889" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bc_NFXUc2R_Vx_7Tmhzq-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.505;entryY=-0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bc_NFXUc2R_Vx_7Tmhzq-103" target="bc_NFXUc2R_Vx_7Tmhzq-53">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="-490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="551" y="-585" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bc_NFXUc2R_Vx_7Tmhzq-108" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bc_NFXUc2R_Vx_7Tmhzq-106">
+          <mxGeometry x="-0.334" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bc_NFXUc2R_Vx_7Tmhzq-103" value="If any complaint ongoing" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="-640" width="110" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
